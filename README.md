@@ -9,4 +9,4 @@ This project demonstrates a Rust development environment set up using a DevConta
 - **Ready-to-use workspace**: Simplifies onboarding and ensures consistent development environments.
 
 ---
-Link to tutorial [here].
+Link to tutorial [here](https://boluwatifeda.github.io/comp423-course-notes/tutorials/rust-setup/).
